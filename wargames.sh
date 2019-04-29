@@ -1,5 +1,7 @@
 #!/bin/sh
 
+# FLAG3:60fc85f8941befeb75e2a83271067574
+
 # (Standard 2 clause BSD licence)
 # 
 # Copyright (c) 2012 David Brownlee <abs@absd.org>
